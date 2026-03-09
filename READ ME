@@ -1,0 +1,14 @@
+Jmeter API test 
+
+
+Automation API test using Apache JMeter.
+
+Test Scenario:
+1. Login API
+2. Validate token response
+3. Assertion response code
+
+Tools:
+- JMeter
+- Git
+- GitHub
